@@ -1,0 +1,10 @@
+Question 3 files:
+qrgives.m
+givensrotation.m
+
+To run: Pass the matrix A after the addition of the column as a function parameter in the qrgivens.m file
+
+Question 5 files:
+CGS_MGS.m
+
+To run: comment and uncomment the appropriate m and n values and also CGS or MGS.
